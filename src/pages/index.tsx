@@ -2,9 +2,9 @@ import { Link } from "gatsby"
 import React from "react"
 import Image from "../components/image"
 import { H1, P } from "../components/page-elements"
-import SEO from "../components/seo"
+import { SEO } from "../components/seo"
 
-const IndexPage = () => (
+export default () => (
   <>
     <SEO title="Home" />
     <H1>Hi people</H1>
@@ -16,5 +16,3 @@ const IndexPage = () => (
     <Link to="/page-2/">Go to page 2</Link>
   </>
 )
-
-export default IndexPage
