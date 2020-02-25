@@ -10,10 +10,10 @@ import React from "react"
 import Helmet from "react-helmet"
 
 interface Props {
+  title: string
   description: string
   lang: string
   meta: any
-  title: string
 }
 
 export const SEO = ({ description, lang, meta, title }: Props) => {
