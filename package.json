@@ -6,7 +6,7 @@
   "author": "Scott Spence <yo@scottspence.dev>",
   "dependencies": {
     "@types/react": "16.9.31",
-    "@types/react-dom": "16.9.5",
+    "@types/react-dom": "16.9.6",
     "@types/react-helmet": "5.0.15",
     "@types/styled-components": "5.0.1",
     "babel-plugin-styled-components": "1.10.7",
