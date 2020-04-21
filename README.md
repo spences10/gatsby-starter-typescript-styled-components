@@ -4,13 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby TypeScript starter 
+  Gatsby TypeScript starter with styled-components
 </h1>
-<h2 align="center">
-  with styled-components
-</h2>
 
-## Made with the [Gatsby default starter]
+**Made with the [Gatsby default starter]**
 
 Kick off your project with this boilerplate.
 
