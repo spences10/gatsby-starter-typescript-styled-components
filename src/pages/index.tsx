@@ -1,8 +1,8 @@
 import { Link } from "gatsby"
 import React from "react"
+import SEO from "react-seo-component"
 import Image from "../components/image"
 import { H1, P } from "../components/page-elements"
-import { SEO } from "../components/seo"
 
 export default () => (
   <>

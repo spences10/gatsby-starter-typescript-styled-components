@@ -1,6 +1,6 @@
 import { Link } from "gatsby"
 import React from "react"
-import { SEO } from "../components/seo"
+import SEO from "react-seo-component"
 
 export default () => (
   <>
