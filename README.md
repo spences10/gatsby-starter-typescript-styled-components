@@ -18,7 +18,7 @@ _Have another more specific idea? You may want to check out the vibrant collecti
 ## Get started 🚀
 
 ```bash
-npx gatsby new gatsby-typescript git@github.com:spences10/gatsby-starter-styled-components
+npx gatsby new gatsby-typescript git@github.com:spences10/gatsby-starter-typescript-styled-components
 ```
 
 ## 🧐 What's inside?
