@@ -11,9 +11,9 @@ import Helmet from "react-helmet"
 
 interface Props {
   title: string
-  description: string
-  lang: string
-  meta: any
+  description?: string
+  lang?: string
+  meta?: any
 }
 
 export const SEO = ({ description, lang, meta, title }: Props) => {
