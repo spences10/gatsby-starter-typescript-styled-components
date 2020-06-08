@@ -12713,10 +12713,10 @@ react-remove-scroll@^2.3.0:
     use-callback-ref "^1.2.3"
     use-sidecar "^1.0.1"
 
-react-seo-component@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/react-seo-component/-/react-seo-component-2.0.1.tgz#e92954d2a18d4a336f5dad7174f571327df2cdaa"
-  integrity sha512-7YqJRatjyaW1wUAe1mnxiK3F8FSQDLiwO+xV4wYEtD4+3+EPSFl9lSJPPLc/kkZoeAWCNiw+463q92nbBDkEnQ==
+react-seo-component@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/react-seo-component/-/react-seo-component-2.0.2.tgz#0297dd7d6a2c3d54ce71ca3cbedec330e4870149"
+  integrity sha512-OQmrWcOn15ST9oBOfpWHrDwXKELw6ztAblHpTPdL2xmlOWazfZ13Nk6X/+LC7bEcFxGt5Tq6731OnZ35atG0Kg==
 
 react-side-effect@^2.1.0:
   version "2.1.0"
