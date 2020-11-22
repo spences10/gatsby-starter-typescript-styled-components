@@ -7,42 +7,19 @@
   Gatsby TypeScript starter with styled-components
 </h1>
 
-**Made with the [Gatsby default starter]**
+Based off of the [Gatsby Starter Default] template.
 
-Kick off your project with this boilerplate.
+## 🚀 Quick start
 
-This starter ships with the main Gatsby configuration files you might need to get up and running.
+Use the Gatsby CLI to create a new site, specifying the starter
+template.
 
-_Have another more specific idea? You may want to check out the vibrant collection of [official and community-created starters]._
-
-## Get started 🚀
-
-```bash
-npx gatsby new gatsby-typescript git@github.com:spences10/gatsby-starter-typescript-styled-components
+```shell
+# create a new project
+gatsby new gatsby-starter-typescript-styled-components https://github.com/spences10/gatsby-starter-typescript-styled-components
 ```
-
-## 🧐 What's inside?
-
-A quick look at the top-level files and directories you'll see in a Gatsby project.
-
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package.json
-    ├── README.md
-    ├── renovate.json
-    ├── root-wrapper.js
-    ├── tsconfig.json
-    └── yarn.lock
 
 <!-- Links -->
 
-[gatsby default starter]: https://github.com/gatsbyjs/gatsby-starter-default
-[official and community-created starters]: https://www.gatsbyjs.org/docs/gatsby-starters/
+[gatsby starter default]:
+  https://github.com/gatsbyjs/gatsby-starter-default
