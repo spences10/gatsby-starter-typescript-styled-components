@@ -1,6 +1,6 @@
-import { Link } from "gatsby"
-import React from "react"
-import { H1 } from "./page-elements"
+import { Link } from 'gatsby'
+import React from 'react'
+import { H1 } from './page-elements'
 
 interface Props {
   siteTitle: string
