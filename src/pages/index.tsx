@@ -1,9 +1,9 @@
-import { Link } from "gatsby"
-import React from "react"
-import SEO from "react-seo-component"
-import Image from "../components/image"
-import { H1, P } from "../components/page-elements"
-import { useSiteMetadata } from "../hooks/use-site-metadata"
+import { Link } from 'gatsby'
+import React from 'react'
+import SEO from 'react-seo-component'
+import Image from '../components/image'
+import { H1, P } from '../components/page-elements'
+import { useSiteMetadata } from '../hooks/use-site-metadata'
 
 export default () => {
   const {

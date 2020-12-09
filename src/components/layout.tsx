@@ -5,9 +5,9 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React, { ReactNode } from "react"
-import { useSiteMetadata } from "../hooks/use-site-metadata"
-import Header from "./header"
+import React, { ReactNode } from 'react'
+import { useSiteMetadata } from '../hooks/use-site-metadata'
+import Header from './header'
 
 interface Props {
   children: ReactNode

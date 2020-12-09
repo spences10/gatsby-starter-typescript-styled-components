@@ -1,6 +1,6 @@
-import React from "react"
-import SEO from "react-seo-component"
-import { useSiteMetadata } from "../hooks/use-site-metadata"
+import React from 'react'
+import SEO from 'react-seo-component'
+import { useSiteMetadata } from '../hooks/use-site-metadata'
 
 export default () => {
   const {

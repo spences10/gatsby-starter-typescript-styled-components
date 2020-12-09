@@ -21,5 +21,4 @@ gatsby new gatsby-starter-typescript-styled-components https://github.com/spence
 
 <!-- Links -->
 
-[gatsby starter default]:
-  https://github.com/gatsbyjs/gatsby-starter-default
+[gatsby starter default]: https://github.com/gatsbyjs/gatsby-starter-default
